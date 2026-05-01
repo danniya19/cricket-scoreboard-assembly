@@ -1,3 +1,9 @@
+# **Team Members**
+
+Daniya Mehmood
+
+Zainab Rafique
+
 # **Cricket Scoreboard** (Assembly Language)
 
 A console-based cricket scoreboard system developed using Assembly Language (MASM) with the Irvine32 library. This project simulates a real-time cricket match, allowing users to manage scoring, overs, wickets, and match flow interactively.
@@ -8,11 +14,7 @@ The Cricket Scoreboard System is designed to replicate the functionality of a re
 
 The system is built using low-level programming concepts, demonstrating efficient use of Assembly Language for handling logic, user input, and real-time updates.
 
-# **Team Members**
 
-Daniya Mehmood
-
-Zainab Rafique
 # **Features**
 Toss functionality (decide batting/bowling)
 Real-time score updates
